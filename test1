@@ -1,3 +1,4 @@
+int IN0=7;
 int IN1=3;
 int IN2=4;
 int IN3=7;
